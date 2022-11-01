@@ -240,7 +240,7 @@ https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-id="naturaleza" tvg-name="naturaleza" tvg-logo="https://images-3.wuaki.tv/system/artworks/327/original/naturaleza-1630568601.jpeg" group-title="Natura y Documentales" tvg-chno="668", Naturaleza
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991770/master.m3u8?ads.xumo_channelId=9991770
 
-#EXTINF:-1 tvg-id="rakuten-stories-es" tvg-name="rakuten-stories-es" tvg-logo="https://images-2.wuaki.tv/system/artworks/108/original/rakuten-stories-1626245210.jpeg" group-title="Películas" tvg-chno="4", Rakuten Documentales
+#EXTINF:-1 tvg-id="rakuten-stories-es" tvg-name="rakuten-stories-es" tvg-logo="https://images-2.wuaki.tv/system/artworks/108/original/rakuten-stories-1626245210.jpeg" group-title="Natura y Documentales" tvg-chno="4", Rakuten Documentales
 https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/ef8ce74b-a982-4a20-be83-99d831cdc821/2.m3u8
 
 #EXTINF:-1 channel-id="pluto-60c343ad476ec00007c2ec1a" tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Viajes
