@@ -2,6 +2,7 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz"
 #EXTM3U url-tvg="https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 #EXTM3U url-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+#EXTM3U url-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
 
 
 #EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias", Euronews
