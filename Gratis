@@ -883,13 +883,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d
 #EXTINF:-1 tvg-id="mavtv-motorsports-network" tvg-name="mavtv-motorsports-network" tvg-logo="https://images-2.wuaki.tv/system/artworks/17/original/mavtv-motorsports-network-1602757453.jpeg" group-title="Motor" tvg-chno="241", MAVTV Motorsports Network (USA)
 https://1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-chno="2200" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" group-title="Motor", MAVTV Select (Select)
+#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-chno="2200" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" group-title="Motor", MAVTV Select (USA)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 channel-id="samsung-ESBA1500002B5" tvg-id="ESBA1500002B5" tvg-chno="4485" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBA1500002B5_20221026T004453.png" group-title="Motor", Motorvision
+#EXTINF:-1 channel-id="samsung-ESBA1500002B5" tvg-id="ESBA1500002B5" tvg-chno="4485" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBA1500002B5_20221026T004453.png" group-title="Motor", Motorvision (LAT)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/be2e393a-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="Motor", PowerNation
+#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="" group-title="Motor", PowerNation (LAT)
 https://rtmtv-powernationenespanol-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/9771d8c8ced723458ab790a8f9df2cd6" group-title="Motor" tvg-chno="159", GTR24H (USA)
