@@ -191,6 +191,10 @@ https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-myti
 #EXTINF:-1 channel-id="samsung-ESAJ4900005CX" tvg-id="ESAJ4900005CX" tvg-chno="4990" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/ESAJ4900005CX_20220323T081846.png" group-title="Cine", Sofy.tv
 https://samsunguk-sofy-samsung-es-ibtvr.amagi.tv/playlist/samsunguk-sofy-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-id="5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Cine Latino",FLOU Cine
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6323ac0f8f253768c26b5529.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=RzZkAMcnXSMzjpDFik8L
+
+
 #EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="260" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Series", BBC Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -484,6 +488,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a00075048
 
 #EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="256" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Programas 24/7", Dog el cazarrecompensas (LAT)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88" tvg-id="5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" group-title="Programas 24/7",The Bob Ross Channel (LAT)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=8gDCVCJuZTbsGtsrzzHs
 
 #EXTINF:-1 tvg-id="travelxp-eng" tvg-name="travelxp-eng" tvg-logo="https://images-1.wuaki.tv/system/artworks/37/original/travelxp-1601478046.jpeg" group-title="Entretenimiento" tvg-chno="320", Travelxp (USA)
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
