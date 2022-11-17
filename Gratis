@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" 
 
 #EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias", Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -141,7 +141,7 @@ https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="cine-espanol-rakuten-tv" tvg-name="cine-espanol-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/164/original/cine-espanol-rakuten-tv-1628175641.jpeg" group-title="Cine" tvg-chno="5", Cine Español
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/f322e7e6-e198-4041-8fd6-1cce8bf29083/2.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-chno="4956" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="Cine", Grjngo Cine Del Oeste
+#EXTINF:-1 url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml.gz" channel-id="samsung-ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-chno="4956" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="Cine", Grjngo Cine Del Oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 channel-id="samsung-ESBC2700003T8" tvg-id="ESBC2700003T8" tvg-chno="4960" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" group-title="Cine", Bjgtjme Cine Gratis
